@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deniz Ali Kazan</h1>
 <h3 align="center">A Game Designer / Software Engineer</h3>
+<h5 align="center"> Known as Cheel</h3>
+
+
+
+
 
 - 🔭 I’m currently working on [Uniguard (Multi-Hacking / Defend Tool)](https://github.com/DenizAliKazan/uniguard)
 
@@ -16,6 +21,12 @@
 - 📄 Know about my experiences [cheel.dev](cheel.dev)
 
 - ⚡ Fun fact **software is kinda boring , game is better.**
+
+- 🎯 Areas of Expertise:
+• 🎮 Game development (Unity, Unreal Engine)
+• 💻 Full-stack web applications
+• 🧩 Interactive system design & user experience
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
