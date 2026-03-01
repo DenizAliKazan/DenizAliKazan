@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Uniguard (Multi-Hacking / Defend Tool)](https://github.com/DenizAliKazan/uniguard)
 
-- 👯 I’m looking to collaborate on **Banana-Monkey Game(Soon)**
+- 👯 I’m looking to collaborate on **Tower-Defence Game(Soon)**
 
 - 👨‍💻 All of my projects are available at [cheel.dev/project](cheel.dev/project)
 
